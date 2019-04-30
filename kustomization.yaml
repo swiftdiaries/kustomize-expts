@@ -1,0 +1,5 @@
+bases:
+#- cronjob/base
+- cronjob/overlay
+
+namespace: kustomize-expts
